@@ -19,15 +19,13 @@ N/A.
 
 ## Usage
 
-The following is a screenshot of what the website looks like. It has been kept as close to the original as possible.mProvide instructions and examples for use. Include screenshots as needed.
+The following is a screenshot of what the website looks like. It has been kept as close to the original as possible.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ![Screenshot](assets/images/Horiseon.png)
+![Screenshot](assets/images/Horiseon.png)
 
 ## Credits
 
-MDN <h1>–<h6>: The HTML Section Heading elements 
+MDN - The HTML Section Heading elements 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements]
 
 Stack Over Flow "How should I organize the contents of my CSS file(s)?" 
