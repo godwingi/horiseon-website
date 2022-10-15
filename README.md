@@ -11,7 +11,7 @@ In order to make it more accessible, the following was changed:
 
 Certain items were kept due to error messages. For example, lists in the header, while could be amalgamted, and had no effect on the website, produced an error, therefore, it was left as stated.
 
-The website can be accessed at the following link: []
+The website can be accessed at the following link: [https://godwingi.github.io/horiseon-website/]
 
 ## Installation
 
